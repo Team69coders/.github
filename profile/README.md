@@ -1,3 +1,5 @@
+[![Logo](/logoGround.png)](https://github.com/Team69coders)
+
 # 69coders [An Open Source Community]
 
 69coders is an Open Source Community that helps freshers to learn programming concepts via memes. Learning via memes is the simplest way to understand any concept. So we are here to help you with all the programming concepts via memes. We also provide detailed concepts in written formats for newborn programmers & software testers to understand the basics.
