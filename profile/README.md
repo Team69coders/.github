@@ -6,6 +6,6 @@
 
 We are creating a lots of short code snippets and programming articles via memes concepts with the help of the community of contributors. Our goal is to make software development more accessible and help the open source community thrive by helping people learn to code via memes with concepts. 
 
-* Visit [our website](https://linktr.ee/69coders).
+* Visit [our temporary website](https://linktr.ee/69coders). New Website Coming Soon....
 * To know more about us [LinkedIn Page](https://www.linkedin.com/company/69coders/?viewAsMember=true&original_referer=).
 * Follow us on [Twitter](https://twitter.com/69coders) & [Instagram](https://www.instagram.com/69coders) for daily updates.
